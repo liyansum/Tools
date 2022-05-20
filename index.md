@@ -1,8 +1,4 @@
 ---
-date: 2022-05-20 00:55:00
-description: maaue
-
----
 # 本站
 
 **[本站状态监视](https://monitor.maaue.com/)**
@@ -13,6 +9,7 @@ description: maaue
 
 脚本来自@WhaleFell在github上的项目
 
+---
 # 外链
 
 **[Webssh](https://webssh.huashengdun.org/)**
