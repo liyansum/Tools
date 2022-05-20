@@ -1,5 +1,5 @@
 ---
-title: tools
+title: Tools
 date: 2022-05-20 00:55:00
 description: 
 
@@ -21,3 +21,5 @@ description:
 方便在网页端进行连接
 
 **[不二的贴吧工具箱](https://www.82cat.com/)**
+
+用来挖号挺实用的
