@@ -17,3 +17,21 @@
 **[不二的贴吧工具箱](https://www.82cat.com/)**
 
 用来挖号挺实用的
+
+
+**[七麦数据](https://qimai.cn/)**
+
+查看app的排行榜
+
+**[苹果固件下载](https://ipsw.me/)**
+
+下载固件
+
+
+**[轻之国都](https://lightnovel.us/)**
+
+小说网站
+
+**[光遇周边](https://www.thatskyshop.com/)**
+
+光遇的官方周边
