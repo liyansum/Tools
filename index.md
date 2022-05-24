@@ -4,7 +4,7 @@
 
 **[光遇每日任务小助理](https://sky.maaue.com/)** - 脚本来自@WhaleFell在github上的项目
 
-**[自建纯净的DNS](https://dns.maaue.com/)** - 无记录无污染采用腾讯云anycast接入
+**[自建纯净的DNS](https://dns.maaue.com/)** - 无记录无污染采用腾讯云cdn节点
 
 DOH:https://dns.maaue.com/dns-query
 
