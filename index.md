@@ -8,6 +8,8 @@
 
 DOH:https://dns.maaue.com/dns-query
 
+IOS安装:**[点击下载描述文件](https://tools.maaue.com/dns.mobileprovision)**
+
 # 外链
 
 **[Webssh](https://webssh.huashengdun.org/)** - 方便在网页端进行连接
