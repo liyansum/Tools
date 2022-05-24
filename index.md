@@ -8,7 +8,7 @@
 
 DOH:https://dns.maaue.com/dns-query
 
-IOS安装:**[点击下载描述文件](https://tools.maaue.com/dns.mobileprovision)**
+IOS安装:**[点击下载描述文件](https://tools.maaue.com/dns.mobileconfig)**
 
 # 外链
 
