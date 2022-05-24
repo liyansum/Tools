@@ -4,6 +4,9 @@
 
 **[光遇每日任务小助理](https://sky.maaue.com/)** - 脚本来自@WhaleFell在github上的项目
 
+**[自建纯净的DNS](https://dns.maaue.com/)** - 无记录无污染采用腾讯云anycast接入
+DOH:https://dns.maaue.com/dns-query
+
 # 外链
 
 **[Webssh](https://webssh.huashengdun.org/)** - 方便在网页端进行连接
