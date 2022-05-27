@@ -8,7 +8,7 @@
 
 DOH:https://dns.maaue.com/dns-query
 
-IOS安装:**[点击下载描述文件](https://tools.maaue.com/dns.mobileconfig)**
+IOS安装:https://tools.maaue.com/dns.mobileconfig
 
 **[光遇每日任务小助理](https://sky.maaue.com/)** - 脚本来自@WhaleFell在github上的项目
 
