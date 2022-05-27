@@ -13,19 +13,3 @@ DOH:https://dns.maaue.com/dns-query
 IOS安装:https://tools.maaue.com/dns.mobileconfig
 
 **[光遇每日任务小助理](https://sky.maaue.com/)** - 脚本来自@WhaleFell在github上的项目
-
-# 外链
-
-**[Webssh](https://webssh.huashengdun.org/)** - 方便在网页端进行连接
-
-**[不二的贴吧工具箱](https://www.82cat.com/)** - 用来挖号挺实用的
-
-
-**[七麦数据](https://qimai.cn/)** - 查看app的排行榜
-
-**[苹果固件下载](https://ipsw.me/)** - 下载固件
-
-
-**[轻之国都](https://lightnovel.us/)** - 小说网站
-
-**[光遇周边](https://www.thatskyshop.com/)** - 光遇的官方周边
